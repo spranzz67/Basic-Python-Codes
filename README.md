@@ -1,2 +1,2 @@
 # Basic-Python-Codes
-just some basic python codes
+This repository is a compilation of all the basic level Python codes in adherance to the fundamentals covered in Python programming as a subject!
